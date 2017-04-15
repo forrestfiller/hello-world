@@ -2,6 +2,8 @@
 
 ### Why? Why not!
 
+### This is the **Built** branch, so you can check your output
+
 1. ``` brew install nasm ```
 
 2. ``` git clone ``` the repo
