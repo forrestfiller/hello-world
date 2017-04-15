@@ -7,7 +7,7 @@
 2. ``` git clone ``` the repo
 
 3. Generate your object file:
- - ``` nasm -f macho64 -o hello_world.asm  ```
+ - ``` nasm -f macho64 -o hello_world.o hello_world.asm  ```
 
 ( list the contents of your directory to see if you made anything new... )
 
